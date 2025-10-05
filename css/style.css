@@ -1,0 +1,28 @@
+body {
+ background-image: url(Images/20252725-Tuna-V1.jpg);
+ background: #9E8C88;
+ color: #000;
+ font-family: "Covered By Your Grace";
+/*font-weight: bold; */
+}
+
+fieldset {
+    border-color: #000;
+}
+
+h1, h2, h3 {
+ background: white;
+ padding: 10px;    
+ font-family: "Covered By Your Grace";
+ color: #000;
+ font-style:normal;
+/*font-size:25px; */
+}
+
+p {
+ color: #000;    
+}
+
+li {
+  color: #000;
+}
